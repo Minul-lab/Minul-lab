@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" alt="MD. Mohaiminul - Full Stack Developer" width="100%" />
+</p>
+
 <h2 align="center">Hi 👋, I'm MD. Mohaiminul</h2>
 
 <p align="center">
